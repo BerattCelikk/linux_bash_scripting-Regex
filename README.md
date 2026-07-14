@@ -16,8 +16,6 @@
 [Dosya Yapısı](#-dosya-yapısı) •
 [İçerikler](#-içerikler) •
 [Hızlı Başlangıç](#-hızlı-başlangıç) •
-[Öğrenme Yolu](#-önerilen-öğrenme-yolu) •
-[SSS](#-sık-sorulan-sorular)
 
 </div>
 
